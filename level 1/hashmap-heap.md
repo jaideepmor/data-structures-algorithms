@@ -9,23 +9,13 @@
 
 
 # ******questions -
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
-11.
-12.
-13.
-14.
-15.
-16.
-17.
-18.
-19.
-20.
+1.highest frequency character
+2.get common elements-1
+3.get common elements-2
+4.longest consecutive sequence of elements
+5.k largest elements
+6.sort k - sorted array
+7.median priority queue
+8.merge k sorted lists
+9.write priority queue using heap 
+10.write hashmap
